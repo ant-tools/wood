@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style>
+	<window>
+		<text-align>center</text-align>
+		<text-decoration>none</text-decoration>
+		<text-transform>uppercase</text-transform>
+		<color>@color/page-header-link</color>
+		<border-bottom>solid 4px transparent</border-bottom>
+	</window>
+</style>

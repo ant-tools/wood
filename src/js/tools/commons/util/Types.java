@@ -351,14 +351,12 @@ public class Types
         {
           return new Iterator<Object>()
           {
-            @SuppressWarnings("unqualified-field-access")
             @Override
             public boolean hasNext()
             {
               return index < Array.getLength(array);
             }
 
-            @SuppressWarnings("unqualified-field-access")
             @Override
             public Object next()
             {
